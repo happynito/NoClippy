@@ -1,0 +1,16 @@
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\bin\Debug\NoClippy.deps.json
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\bin\Debug\NoClippy.dll
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\obj\Debug\NoClippy.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\obj\Debug\NoClippy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\obj\Debug\NoClippy.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\obj\Debug\NoClippy.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\obj\Debug\NoClippy.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master (1)\NoClippy-master\obj\Debug\NoClippy.dll
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\obj\Debug\NoClippy.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\obj\Debug\NoClippy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\obj\Debug\NoClippy.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\obj\Debug\NoClippy.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\obj\Debug\NoClippy.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\obj\Debug\NoClippy.dll
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\bin\Debug\NoClippy.deps.json
+C:\Users\jonas\OneDrive\Bureaublad\NoClippy-master\bin\Debug\NoClippy.dll

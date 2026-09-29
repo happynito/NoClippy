@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NoClippy/0.5.0.24": {
+        "runtime": {
+          "NoClippy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoClippy/0.5.0.24": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
